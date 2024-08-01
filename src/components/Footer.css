@@ -1,0 +1,28 @@
+.footerContents .icon{
+    display: flex;
+    gap: 35px;
+    padding-left: 10px;
+    margin-bottom: 25px;
+}
+.list_wrap{
+    display: flex;
+    gap: 170px;
+}
+.list_wrap li{
+    margin-bottom: 22px;
+}
+.list_wrap li a{
+    color: rgba(255,255,255,0.5);
+    font-size: 12px;
+}
+.footer button{
+    padding: 10px;
+    border: 1px solid rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.5);
+    margin-bottom: 22px;
+}
+.footer p{
+    color: rgba(255,255,255,0.5);
+    font-size: 12px;
+    line-height: 20px;
+}
